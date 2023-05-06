@@ -1,0 +1,68 @@
+.navbar-custom{
+    background-color: #115783;
+}
+.bg-custom{
+    background-color: #1982C4;
+}
+.text-custom{
+    color: #F5F9E9;
+}
+.card-text-custom{
+    color: #000F08;
+}
+.card-custom-bg{
+    border: #000F08;
+    background-color: #FF5A5F;
+    color: #5AFFFA;
+}
+.card-bg-all{
+    background-color: #F5F9E9;
+}
+.card-bg-main{
+    background-color: #3EC300;
+    color: #8500C3;
+    border: #000F08;
+}
+.btn-detaljnije{
+    background-color: #9B7EDE;
+    color: white;
+}
+.footer-custom{
+    background-color: #000F08;
+    color: #f2f2f2;
+}
+.btn-newsletter{
+    background-color: #A3E7FC;
+    outline: #f2f2f2;
+}
+.info-text{
+    font-size: 10px;
+}
+.carousel-control-next,
+.carousel-control-prev /*, .carousel-indicators */ {
+    filter: invert(100%);
+}
+
+.showcase-div{
+    background-color: #F5F9E9;
+}
+
+#gradient{
+    height: 100px;
+    background-image: linear-gradient(to bottom,#1982C4 20%, #F5F9E9 50%);
+}
+
+
+/* fontovi */
+.naslov{
+    font-family: 'Montserrat' ;
+}
+.podnaslov{
+    font-family: 'Lato';
+}
+.obican-tekst{
+    font-family: 'Shanti';
+}
+.naslov-naslov{
+    font-size: 56px;
+}
